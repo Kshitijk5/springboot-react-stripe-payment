@@ -16,6 +16,8 @@ SoftwareNotesHub is a full-stack web application that enables users to purchase 
 ![Main page](https://i.imgur.com/ylq34n9.png)
 - ## Stripe checkout page
 ![Main page](https://i.imgur.com/p6mjQX8.png)
+- ## Stripe test payment page
+![Main page](https://i.imgur.com/nYhBIXK.png)
 - ## Success page
 ![Main page](https://i.imgur.com/eNQzo1n.png)
 - ## Customer email
