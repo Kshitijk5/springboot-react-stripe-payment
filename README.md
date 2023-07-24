@@ -48,7 +48,7 @@ SoftwareNotesHub is a full-stack web application that enables users to purchase 
 
 - **Spring Starter Web:** Enables building web applications with Spring and simplifies the setup.
 
-- **spring-boot-starter-mail:** Provides email sending capabilities for your application.
+- **JavaMail Sender:** Provides email sending capabilities for your application.
 
 - **MySQL Driver:** Provides connectivity to a MySQL database.
 
@@ -68,7 +68,7 @@ SoftwareNotesHub is a full-stack web application that enables users to purchase 
 
 - **Auth0 SDK:** Used to implement user authentication in the frontend.
 
-- **Material-UI:** A component library that provides pre-built UI components following the Material Design principles.
+- **Bootstrap:** CSS Framework for developing responsive and mobile-first websites..
 
 ## Installation
 
