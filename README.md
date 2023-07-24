@@ -75,7 +75,7 @@ SoftwareNotesHub is a full-stack web application that enables users to purchase 
 ```bash
  https://github.com/Kshitijk5/springboot-react-stripe-payment.git
 
- springboot-react-stripe-payment
+ cd springboot-react-stripe-payment
 ```
 
 
